@@ -1,0 +1,9 @@
+C:\Users\Sahiba Awan\Downloads\Hospital-Management-System-main (1)\Hospital-Management-System-main\BLL\bin\Debug\BLL.exe.config
+C:\Users\Sahiba Awan\Downloads\Hospital-Management-System-main (1)\Hospital-Management-System-main\BLL\bin\Debug\BLL.exe
+C:\Users\Sahiba Awan\Downloads\Hospital-Management-System-main (1)\Hospital-Management-System-main\BLL\bin\Debug\BLL.pdb
+C:\Users\Sahiba Awan\Downloads\Hospital-Management-System-main (1)\Hospital-Management-System-main\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Sahiba Awan\Downloads\Hospital-Management-System-main (1)\Hospital-Management-System-main\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\Sahiba Awan\Downloads\Hospital-Management-System-main (1)\Hospital-Management-System-main\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+C:\Users\Sahiba Awan\Downloads\Hospital-Management-System-main (1)\Hospital-Management-System-main\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Sahiba Awan\Downloads\Hospital-Management-System-main (1)\Hospital-Management-System-main\BLL\obj\Debug\BLL.exe
+C:\Users\Sahiba Awan\Downloads\Hospital-Management-System-main (1)\Hospital-Management-System-main\BLL\obj\Debug\BLL.pdb
